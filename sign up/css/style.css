@@ -1,0 +1,26 @@
+.body-color{
+    background-color: #24353F;
+}
+
+.group{
+    background-color: #24353F;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+
+a:hover{
+    text-decoration: underline !important;
+}
+
+.my-input{
+    background-color: #24353F;
+    color: white !important;
+}
+
+.my-input::placeholder{
+    color: #CED4DA;
+}
+
+.my-input:focus{
+    background-color: #24353F;
+}

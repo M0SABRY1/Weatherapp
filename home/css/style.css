@@ -1,0 +1,52 @@
+.body-color {
+  background-color: #1e202b;
+}
+
+.app-container {
+  background-image: url(../images/banner.png);
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.main-bg {
+  background-color: #2d303d;
+}
+.sec-bg {
+  background-color: #323544e1;
+}
+.tomorrow-bg {
+  background-color: #222530;
+}
+.tomorrow-sec-bg {
+  background-color: #262936e1;
+}
+
+
+
+body .navbar {
+  box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+  background-color: #24353f;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.my-input {
+  background-color: #24353f;
+  color: white !important;
+}
+
+.my-input::placeholder {
+  color: #ced4da;
+}
+
+.my-input:focus {
+  background-color: #24353f;
+}
+
+h1 img {
+  vertical-align: sub;
+  margin-right: 5px;
+}
